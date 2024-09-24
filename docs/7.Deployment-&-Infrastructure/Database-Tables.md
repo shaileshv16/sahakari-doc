@@ -6,7 +6,7 @@
 | **DigiParty** | Society Member |
 | **DigiPayBank** | Neft & BBPS Enable & Disable |
 
-<br>
+<br/>
 
 
 

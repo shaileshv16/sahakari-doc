@@ -27,4 +27,3 @@
 - English
 - Kannada
 
-![localhost_7285_tranpin(iPhone SE) (2).png](/.attachments/localhost_7285_tranpin(iPhone%20SE)%20(2)-d6ea67b3-f9d2-4bbb-825a-c09edd61aed8.png)

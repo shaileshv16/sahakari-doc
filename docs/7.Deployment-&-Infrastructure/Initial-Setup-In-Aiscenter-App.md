@@ -10,7 +10,7 @@ Society Registration will be done by the Automation Cloud Solutions Marketing De
 - Company If Needed
 - IsFundOutTran is Required for Fund Transfer
 
-![SocReg.jpg](/.attachments/SocReg-797ee018-e2a0-4bd1-849f-b1849ff840bf.jpg)
+
 
 **Customer Registration**
 Customer Registration is mandatory whoever using the Sahakari App
@@ -25,7 +25,6 @@ To Register Customer member of a Society follow below mentioned steps...
 - Select A/c Head and A/c No
 - Save
 
-![CustReg.jpg](/.attachments/CustReg-de34f388-8794-485e-8db3-c95ec08ee0d5.jpg)
 
 **Step 2.** Verification of Customer
 
