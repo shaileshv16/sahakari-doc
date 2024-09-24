@@ -23,5 +23,5 @@ Please provide devops links to above features/stories/defects or copy paste deta
 
 **Configuration details (If applicable):**
 
-**Code Pushed by**: @<6A000944-0AC3-6367-8943-4C71CF251313> 
-**Testing certified by**: @<280478E9-93FF-60B6-8B13-307B0A57EA78> 
+**Code Pushed by**: 
+**Testing certified by**: 

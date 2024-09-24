@@ -22,5 +22,3 @@
 
 1. The mini statement for the selected account will be displayed, showing a summary of your most recent transactions.
 1. This feature provides a quick and convenient way to keep track of your account activity, ensuring you stay informed about your latest transactions and account balance.
-
-![Sahakari-Page-·-Moqups.png](/.attachments/Sahakari-Page-·-Moqups-7b3ec0c8-38a6-4ad2-a2ae-bc79acb6e116.png)
