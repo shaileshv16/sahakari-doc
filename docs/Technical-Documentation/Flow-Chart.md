@@ -17,5 +17,3 @@
     G-->M[Fund Transfer Out Side]
   
 :::
-
-![Updated Sahakari App Flowchart (1).png](/.attachments/Updated%20Sahakari%20App%20Flowchart%20(1)-2432ae7d-5c14-4798-a740-2920307b924d.png)

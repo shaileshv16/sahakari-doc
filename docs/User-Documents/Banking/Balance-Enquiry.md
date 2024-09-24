@@ -13,4 +13,3 @@ The Sahakari Mobile App makes it easy to stay on top of your finances with our q
 
 Your current account balance will be displayed on the screen.
 
-![▶-Sahakari·-Moqups.png](/.attachments/▶-Sahakari·-Moqups-a399e797-4de3-4900-9e01-1b7a6881cff6.png)

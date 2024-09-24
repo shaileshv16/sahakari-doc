@@ -29,4 +29,3 @@ The Sahakari Mobile App facilitates seamless fund transfers between accounts wit
 
 1. Upon successful completion, you will receive a confirmation message indicating that the fund transfer within Sahakari has been processed.
 
-![▶-Sahakari-Page-·-Moqups.png](/.attachments/▶-Sahakari-Page-·-Moqups-796b8853-3a9e-498a-8de7-d76e0ed1715b.png)
